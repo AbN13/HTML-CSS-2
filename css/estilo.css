@@ -9,7 +9,7 @@
     height: 616px;
 }
 #banner{
-    width: 80%;
+    width: 850px;
     height: 178px;
     margin: 0 auto;
     background: #000;
@@ -37,8 +37,8 @@
     color:black;
 }
 #img1{
-    width: 840px;
-    height: 156px;
+    width: 843px;
+    height: 155px;
     border: solid;  
 }
 ul li{
